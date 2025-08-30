@@ -1,6 +1,6 @@
 # Workspace Users Admin (Vue 3 + TS)
 
-A more *realistic* (but still NDA‑safe) admin page for **Workspace → Users & Invitations**:
+admin page for **Workspace → Users & Invitations**:
 
 - **Users table** with search, status filter, sort, pagination.
 - **Columns**: role, status, MFA, last login, created at.
